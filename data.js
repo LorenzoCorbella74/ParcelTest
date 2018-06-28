@@ -1,4 +1,3 @@
 export const model = {
-    name: "Lorenzo Corbella",
-    hobby: "coding" 
+    name: "Lorenzo Corbella"
 }
