@@ -1,0 +1,20 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenzoCorbella74/Parcel_test.git"
+  },
+  "keywords": ["Parcel","Build tool"],
+  "author": "Lorenzo Corbella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenzoCorbella74/Parcel_test/issues"
+  },
+  "homepage": "https://github.com/LorenzoCorbella74/Parcel_test#readme"
+}
